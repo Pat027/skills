@@ -28,3 +28,4 @@ A canonical state-machine label applied to an **Issue** during triage (e.g. `nee
 
 - "backlog" was previously used to mean both the *tool* hosting issues and the *body of work* inside it — resolved: the tool is the **Issue tracker**; "backlog" is no longer used as a domain term.
 - "backlog backend" / "backlog manager" — resolved: collapsed into **Issue tracker**.
+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
